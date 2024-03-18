@@ -135,10 +135,7 @@
           "id": 7,
           "category": "Grimace Playground_3",
           "path": "https://avatars.mds.yandex.net/i?id=1cbc3361e0c56a841fe3d41e9e3d1829552c4bbf-11271031-images-thumbs&n=13"
-        }
-      ]
-    },
-    
+       }
       ]
     }
   ]
